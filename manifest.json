@@ -3,13 +3,8 @@
   "name": "FinSec Lab - 금융보안연구실",
   "icons": [
     {
-      "src": "logo/favicon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "logo/favicon.png",
-      "sizes": "512x512",
+      "src": "logo/favicon.png?v=113f363712b9",
+      "sizes": "394x394",
       "type": "image/png"
     }
   ],
