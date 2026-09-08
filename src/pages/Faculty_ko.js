@@ -47,7 +47,7 @@ const fullTimeStudents = [
   { name: '박천호', degree: '석사', cohort: '50기', major: '정보보안', email: 'pch3467@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/no_background/박천호.png` },
   { name: '임시온', degree: '석사', cohort: '50기', major: '정보보안', email: 'ssionn02@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/no_background/임시온.png` },
   { name: '민기단', degree: '석사', cohort: '51기', major: '융합보안', email: 'airmass@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/no_background/민기단.png` },
-  { name: '이설', degree: '석사', cohort: '52기', major: '정보보호', email: 'soonmi5022@gmail.com', photo: `${process.env.PUBLIC_URL}/people-photos/이설.png` },
+  { name: '이설', degree: '석사', cohort: '52기', major: '정보보호', email: 'seollee@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/이설.png` },
 ];
 
 const undergraduateInterns = [

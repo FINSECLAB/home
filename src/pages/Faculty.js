@@ -48,7 +48,7 @@ const fullTimeStudents = [
   { name: 'Cheon Ho Park', nameKo: '박천호', degree: 'M.S.', cohort: '50th', major: 'Department of Cyber Security', email: 'pch3467@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/no_background/박천호.png` },
   { name: 'Si On Lim', nameKo: '임시온', degree: 'M.S.', cohort: '50th', major: 'Department of Cyber Security', email: 'ssionn02@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/no_background/임시온.png` },
   { name: 'Gi Dan Min', nameKo: '민기단', degree: 'M.S.', cohort: '51st', major: 'Department of Convergence Security', email: 'airmass@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/no_background/민기단.png` },
-  { name: 'Seol Lee', nameKo: '이설', degree: 'M.S.', cohort: '52nd', major: 'Department of Information Security', email: 'soonmi5022@gmail.com', photo: `${process.env.PUBLIC_URL}/people-photos/이설.png` },
+  { name: 'Seol Lee', nameKo: '이설', degree: 'M.S.', cohort: '52nd', major: 'Department of Information Security', email: 'seollee@korea.ac.kr', photo: `${process.env.PUBLIC_URL}/people-photos/이설.png` },
 ];
 
 const undergraduateInterns = [
